@@ -1,2 +1,2 @@
 #!/bin/bash
-bash -c cd 0-current_working_directory 
+bash -c cd /home/maxuelr 
