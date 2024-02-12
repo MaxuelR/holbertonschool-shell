@@ -1,2 +1,2 @@
 #!/bin/bash
-bash -c cd ; pwd
+bash -c cd  pwd
