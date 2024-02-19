@@ -1,3 +1,2 @@
-11-binary_to_decimal 
-#!/bin/bash
+ #!/bin/bash
 echo "$((#2BINARY))" 
